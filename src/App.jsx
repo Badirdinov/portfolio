@@ -9,7 +9,7 @@ function App() {
                 <div>
                     <Main/>
                 </div>
-                <div className={`all-sections`}>
+                <div className={`all-section w-full`}>
                     <AllSections/>
                 </div>
             </div>
