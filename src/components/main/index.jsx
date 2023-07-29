@@ -14,7 +14,7 @@ const Main = () => {
             </div>
             <div className={`main__text text-center pt-[69px] px-[20px]`}>
                 <div className={`main__text--item  mb-[30px]`}>
-                    <h5>Дмитрий Валак</h5>
+                    <h5>Азизбек Бадирдинов</h5>
                     <p>блог front-end разработчика</p>
                     <div className={`main__text--item__icons`}>
                         <a href="/">

@@ -2,21 +2,31 @@
   {
     "id": 1,
     "title": "Отдыхаю на природе",
-    "date": "21.09.2020"
+    "date": "21.09.2020",
+    "image": "https://img.itinari.com/pages/images/original/3e20aac2-bf1e-44a3-8a1e-d9616959c4c5-istock-900165262.jpg?ch=DPR&dpr=2.625&w=1600&s=2e92046528ab74c3eb9c083f5db8365e"
   },
   {
     "id": 2,
     "title": "Заканчиваю сложный проект",
-    "date": "15.09.2020"
+    "date": "15.09.2020",
+    "image": "https://previews.123rf.com/images/dinozzaver/dinozzaver1712/dinozzaver171200167/91462465-vue-a%C3%A9rienne-sur-les-toits-et-la-mosqu%C3%A9e-de-la-ville-d-osh-kirghizistan.jpg"
   },
   {
     "id": 3,
     "title": "Переехал в новую квартиру",
-    "date": "11.09.2020"
+    "date": "11.09.2020",
+    "image": "https://media.istockphoto.com/id/515262780/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C-%D0%B2-%D0%BE%D1%88-%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD.jpg?s=612x612&w=0&k=20&c=A4an1t7W9rHpf_kjaKXIbJTB5irVUO4UjsMBvN6Q9HI="
   },
   {
     "id": 4,
     "title": "Осень пришла!",
-    "date": "28.08.2020"
+    "date": "28.08.2020",
+    "image": "https://www.advantour.com/img/kyrgyzstan/osh/osh1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Осень пришла!",
+    "date": "28.08.2020",
+    "image": "https://www.advantour.com/img/kyrgyzstan/osh/osh1.jpg"
   }
 ]

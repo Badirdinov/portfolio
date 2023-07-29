@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      sans: ['Roboto', 'sans-serif'],
-      serif: ['Roboto', 'serif'],
+      sans: ['Inter', 'sans-serif'],
+      serif: ['Inter', 'serif'],
     },
     screens: {
       'sm': '640px',

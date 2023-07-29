@@ -24,7 +24,7 @@ body {
   background: #202020;
 
   &__item {
-    background: url("images/home-image.png");
+    background: url("../images/home-image.png");
     height: 180px;
     position: relative;
 
@@ -155,8 +155,11 @@ body {
       }
 
       &__search {
+        max-width: 212px;
+        width: 100%;
         input {
           background: #202020;
+          width: 100%;
           padding: 12px;
           color: rgba(255, 255, 255, 0.40);
           font-size: 12px;
@@ -174,17 +177,14 @@ body {
 }
 
 .swiperBody {
-  width: 700px !important;
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  color: #000;
+  width: 600px !important;
   margin: 0 0 30px;
   padding: 0;
 }
 
 .swiper {
   margin-top: 60px;
-  width: 90%;
+  width: 100%;
   height: 100%;
 }
 
@@ -201,4 +201,31 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.swiper-backface-hidden .swiper-slide{
+  width: 162px;
+}
+
+
+
+.search{
+  max-width: 600px;
+  width: 100%;
+  padding: 15px 28px;
+  border-radius: 5px;
+  background: #121212;
+  box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.45);
+  input{
+    border: none;
+    background: transparent;
+    color: #D2D2D2;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    &:focus{
+      outline: none;
+    }
+  }
 }
